@@ -1,7 +1,7 @@
 /*************************************************************************************************\
-*    Author: Zwolinski, R.																		  *
-*    Class: CST 113 / 133 / 202                                                                    *
-*    Project: Git Demo                                                                             *
+*    Author: Davidson, K.																		  *
+*    Class: CST 113-02                                                                            *
+*    Project: Git Demo                                                                            *
 *                                                                                                 *
 *   Description:                                                                                  *
 *   Creating a Demo to clone from Professor's Git to Student Git.                                 *
@@ -23,7 +23,7 @@ using namespace std;
 int main() {
 
     // Defining the Header Components
-    const string NAME = "Rich Zwolinski";
+    const string NAME = "kaylana Davidson";
     const string PROJECT = "GIT Demo";
     const int SCREEN_WIDTH = 100;
     const char SYMB = '-';
